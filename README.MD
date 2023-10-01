@@ -21,4 +21,4 @@ python app.py
 3- open your localhost 
 http://127.0.0.1:5000/
 
-* this work utilizes the implementation described in [Cai’s work] (https://github.com/haocai1992/GPT2-News-Classifier)
+### this work utilizes the implementation described in [Cai’s work] (https://github.com/haocai1992/GPT2-News-Classifier)
