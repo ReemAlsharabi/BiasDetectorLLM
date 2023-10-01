@@ -12,6 +12,9 @@ task-specific training to enhance bias analysis.
 
 
 # Deme
+
+![alt text](https://github.com/ReemAlsharabi/BiasDetectorLLM/main/job%20ad.gif)
+
 1- install requirements
 pip install -r requirements.txt
 
