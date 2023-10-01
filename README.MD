@@ -11,9 +11,9 @@ and classification capabilities of language models and underscore the need for
 task-specific training to enhance bias analysis.
 
 
-# Deme
+# Demo
 
-![alt text](https://github.com/ReemAlsharabi/BiasDetectorLLM/main/job%20ad.gif)
+![alt text](https://github.com/ReemAlsharabi/BiasDetectorLLM/blob/main/job%20ad.gif)
 
 1- install requirements
 pip install -r requirements.txt
