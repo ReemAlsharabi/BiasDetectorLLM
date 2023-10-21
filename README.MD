@@ -1,5 +1,5 @@
 # Abstract
-Large language models (LLMs) have demonstrated impressive generative capabilities but also carry the risk of encoding sociocultural biases. This study explores bias
+Large language models (LLMs) have demonstrated impressive generative capabilities but also carry the risk of encoding sociocultural biases. This study explores bias
 detection in story generation by language models. We use GPT-3.5 to automatically
 generate a dataset of 800 stories, divided equally between English and Arabic
 comprising biased and unbiased examples across different categories. Leveraging
