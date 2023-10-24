@@ -11,6 +11,7 @@ and classification capabilities of language models and underscore the need for
 task-specific training to enhance bias analysis.
 
 
+model is available [here](https://drive.google.com/file/d/1_tQ9OfXYbA6GntG0StiEs0DzVocsvc7j/view)
 # Demo
 
 ![alt text](https://github.com/ReemAlsharabi/BiasDetectorLLM/blob/main/job%20ad.gif)
